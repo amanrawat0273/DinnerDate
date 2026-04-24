@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://github.com/amanrawat0273/DinnerDate
+https://amanrawat0273.github.io/DinnerDate/
 ```
 
 That's it. Done. You're welcome.
