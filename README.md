@@ -1,13 +1,13 @@
-# Valentine's Day Interactive Page
+# Dinner Date Interactive Page
 
-A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
+A fun, interactive page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
 
-**Live demo:** [sahilgogna.github.io/v-day](https://sahilgogna.github.io/v-day)
+**Live demo:** [amanrawat.github.io/dinner-date](https://amanrawat.github.io/dinner-date)
 
 
 ---
 
-## Want to Use This to Impress Your GF/Wife?
+## Want to Use This to Ask Someone on a Dinner Date?
 
 You've got three options — pick whatever works for you.
 
@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://github.com/amanrawat0273/DinnerDate
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +30,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/amanrawat/dinner-date](https://github.com/amanrawat/dinner-date)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
@@ -45,7 +45,7 @@ Want your own version you can customize? Follow these steps:
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
-  https://yourusername.github.io/v-day
+  https://yourusername.github.io/dinner-date
   ```
   (Replace `yourusername` with your actual GitHub username)
 
@@ -91,8 +91,8 @@ Want something completely unique? Use AI to build it.
 ## Project Structure
 
 ```
-v-day/
-├── index.html       # Main page — "Will you be my Valentine?"
+dinner-date/
+├── index.html       # Main page — "Will u go on dinner date?"
 ├── yes.html         # Celebration page after they say Yes
 ├── script.js        # Main page logic (button growth, GIF swaps, toasts)
 ├── yes-script.js    # Celebration page animations
